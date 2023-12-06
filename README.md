@@ -1,5 +1,5 @@
 - Hi, I’m @jasonyi5
-- Contact: jtyi@ucdavis.edu
+- Contact: jtyi@berkeley.edu
 
 <!---
 jasonyi5/jasonyi5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
